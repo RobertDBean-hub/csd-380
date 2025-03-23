@@ -1,5 +1,5 @@
 # CSD 380 DevOps  
 
 ## Contributors  
-- John Woods
-- Robert Bean  
+- Instructor: John Woods
+- Name: Robert Bean  
