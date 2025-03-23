@@ -1,2 +1,5 @@
-# csd-380
-Repository for DevOps
+# CSD 380 DevOps  
+
+## Contributors  
+- John Woods (Instructor)  
+- Robert Dylan Bean  
